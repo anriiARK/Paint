@@ -119,7 +119,7 @@ namespace MyPaint.Controls
             using (GraphicsPath Slider = new GraphicsPath())
             {
                 int x = positions[current_position];
-                Slider.AddLines(new Point[] { new Point(x - 3, 9), new Point(x - 3, 21), new Point(x, 25), new Point(x + 3, 21), new Point(x + 3, 9), new Point(x - 3, 9) });
+                Slider.AddLines(new Point[] { new Point(x - 3, 6), new Point(x - 3, 18), new Point(x, 21), new Point(x + 3, 18), new Point(x + 3, 6), new Point(x - 3, 6) });
                 graphics.DrawPath(pen, Slider);
                 graphics.FillPath(brush, Slider);
             }

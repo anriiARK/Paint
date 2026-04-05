@@ -1,13 +1,51 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Anri\\PROJECTS\\Paint c# app\\Paint\\",
+  "WorkspaceRootPath": "C:\\Anri\\Proj\\Paint\\Paint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\projects\\paint c# app\\paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D4C018-1CCC-4167-9D99-D519F620D6DC}|..\\RecentList\\RecentList.csproj|c:\\anri\\proj\\paint\\recentlist\\recentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4C018-1CCC-4167-9D99-D519F620D6DC}|..\\RecentList\\RecentList.csproj|c:\\anri\\proj\\paint\\recentlist\\recentlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\helpers\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:helpers\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\controls\\colorpaleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:controls\\colorpaleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\controls\\colorpalete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:controls\\colorpalete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\controls\\tool.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:controls\\tool.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\controls\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:controls\\roundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\controls\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:controls\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|C:\\Anri\\PROJECTS\\Paint c# app\\Paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|c:\\anri\\proj\\paint\\paint\\dialogs\\resizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:dialogs\\resizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|C:\\Anri\\Proj\\Paint\\Paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{025189AD-A1BF-433B-81D2-2D6496709CE7}|MyPaint.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,57 +56,159 @@
       "DocumentGroups": [
         {
           "DockedHeight": 379,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Anri\\PROJECTS\\Paint c# app\\Paint\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Anri\\PROJECTS\\Paint c# app\\Paint\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAACsCAAAAAAAAAADwvxIAAAAhAAAAAAAAAA==",
+              "Title": "RecentList.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\RecentList\\RecentList.cs",
+              "RelativeDocumentMoniker": "..\\RecentList\\RecentList.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\RecentList\\RecentList.cs*",
+              "RelativeToolTip": "..\\RecentList\\RecentList.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:33:57.302Z",
+              "WhenOpened": "2026-03-11T16:30:25.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Anri\\PROJECTS\\Paint c# app\\Paint\\MainForm.cs",
+              "Title": "RecentList",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\RecentList\\RecentList.csproj",
+              "RelativeDocumentMoniker": "..\\RecentList\\RecentList.csproj",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\RecentList\\RecentList.csproj",
+              "RelativeToolTip": "..\\RecentList\\RecentList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T16:30:21.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:29:55.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursorManager.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Helpers\\CursorManager.cs",
+              "RelativeDocumentMoniker": "Helpers\\CursorManager.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Helpers\\CursorManager.cs",
+              "RelativeToolTip": "Helpers\\CursorManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:29:01.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorPaleteItem.cs [Design]",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\ColorPaleteItem.cs",
+              "RelativeDocumentMoniker": "Controls\\ColorPaleteItem.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\ColorPaleteItem.cs [Design]",
+              "RelativeToolTip": "Controls\\ColorPaleteItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:28:55.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorPalete.cs [Design]",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\ColorPalete.cs",
+              "RelativeDocumentMoniker": "Controls\\ColorPalete.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\ColorPalete.cs [Design]",
+              "RelativeToolTip": "Controls\\ColorPalete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:28:54.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoundButton.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\RoundButton.cs",
+              "RelativeDocumentMoniker": "Controls\\RoundButton.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\RoundButton.cs",
+              "RelativeToolTip": "Controls\\RoundButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:28:37.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tool.Designer.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\Tool.Designer.cs",
+              "RelativeDocumentMoniker": "Controls\\Tool.Designer.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\Tool.Designer.cs",
+              "RelativeToolTip": "Controls\\Tool.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:28:27.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tool.cs [Design]",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\Tool.cs",
+              "RelativeDocumentMoniker": "Controls\\Tool.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Controls\\Tool.cs [Design]",
+              "RelativeToolTip": "Controls\\Tool.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:28:17.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Anri\\PROJECTS\\Paint c# app\\Paint\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T09:10:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResizeForm.cs",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\Dialogs\\ResizeForm.cs",
+              "RelativeDocumentMoniker": "Dialogs\\ResizeForm.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\Dialogs\\ResizeForm.cs",
+              "RelativeToolTip": "Dialogs\\ResizeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T09:09:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Anri\\Proj\\Paint\\Paint\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Anri\\Proj\\Paint\\Paint\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:22:37.767Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 143,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-05-17T12:22:37.767Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
